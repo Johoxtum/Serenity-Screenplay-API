@@ -1,0 +1,18 @@
+{
+  "id": 120,
+  "category": {
+    "id": 120,
+    "name": "Chispa"
+  },
+  "name": "Chispa1",
+  "photoUrls": [
+    "Prueba Get"
+  ],
+  "tags": [
+    {
+      "id": 120,
+      "name": "#Chispa"
+    }
+  ],
+  "status": "available"
+}
